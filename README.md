@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amal Sebastian
 ======================================================================================================================================
 
-I'm a Software Developer
+##I'm a Software Developer
 
 
 Graduated with B.Tech in Computer Science in the year 2021 and currently working at UST
