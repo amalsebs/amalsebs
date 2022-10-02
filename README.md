@@ -48,15 +48,16 @@ Graduated with B.Tech in Computer Science in the year 2021 and currently working
 ### Socials
 
 <p align="left">
-<a href="https://discord.com/users/amalsebs#3110" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+<a href="https://www.linkedin.com/in/amalsebs" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
  </a>&nbsp;&nbsp;
-<a href="https://www.github.com/amalsebs" target="_blank" rel="noreferrer">
+ <a href="https://www.github.com/amalsebs" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
  </a>&nbsp;&nbsp;
- <a href="https://www.linkedin.com/in/amalsebs" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+<a href="https://discord.com/users/amalsebs#3110" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
  </a>
+
 </p>
 
 ### Badges
